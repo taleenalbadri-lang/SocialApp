@@ -4,7 +4,7 @@ import Login from './pages/Login'
 import Register from './pages/Register'
 import Home from './pages/Home'
 import Profile from './pages/Profile'
-import Notfound from './pages/NotFound'
+import Notfound from './pages/Notfound'
 import { ToastContainer } from 'react-toastify'
 import { HeroUIProvider } from "@heroui/react";
 import ProtectedRoute from './pages/ProtectedRoute'
